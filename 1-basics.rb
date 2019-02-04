@@ -1,5 +1,5 @@
 # =================
-# Intro to Ruby and Fun with Git Version Control!
+# Intro to Ruby and Fun with Git Version Control but in conflict.
 # =================
   puts "Hello again!"
   puts "Hello Github!"
