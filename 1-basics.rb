@@ -16,6 +16,7 @@
 
   # Symbol
   :name
+  :state
 
   # Fixnum (integer)
   42
