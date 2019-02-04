@@ -8,6 +8,7 @@
   puts "Hello from the Mac Pro!"
   puts "We are doing stuff"
   puts "So, I'm working on my own here"
+  puts "Hello by me to Github"
 # =================
 # types
 # =================
