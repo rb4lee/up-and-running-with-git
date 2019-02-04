@@ -6,6 +6,7 @@
   puts "Hello World!"
   puts "We are learning branches in Git!"
   puts "Hello from the Mac Pro!"
+  puts "We are doing stuff"
 # =================
 # types
 # =================
